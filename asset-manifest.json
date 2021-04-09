@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ReactComputerVisionTemplate/static/css/main.523f09c5.chunk.css",
+    "main.js": "/ReactComputerVisionTemplate/static/js/main.1ae43efc.chunk.js",
+    "main.js.map": "/ReactComputerVisionTemplate/static/js/main.1ae43efc.chunk.js.map",
+    "runtime-main.js": "/ReactComputerVisionTemplate/static/js/runtime-main.db29c028.js",
+    "runtime-main.js.map": "/ReactComputerVisionTemplate/static/js/runtime-main.db29c028.js.map",
+    "static/js/2.b13e1942.chunk.js": "/ReactComputerVisionTemplate/static/js/2.b13e1942.chunk.js",
+    "static/js/2.b13e1942.chunk.js.map": "/ReactComputerVisionTemplate/static/js/2.b13e1942.chunk.js.map",
+    "index.html": "/ReactComputerVisionTemplate/index.html",
+    "precache-manifest.815951c0c4189a567c53fd5b543d253c.js": "/ReactComputerVisionTemplate/precache-manifest.815951c0c4189a567c53fd5b543d253c.js",
+    "service-worker.js": "/ReactComputerVisionTemplate/service-worker.js",
+    "static/css/main.523f09c5.chunk.css.map": "/ReactComputerVisionTemplate/static/css/main.523f09c5.chunk.css.map",
+    "static/js/2.b13e1942.chunk.js.LICENSE.txt": "/ReactComputerVisionTemplate/static/js/2.b13e1942.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.db29c028.js",
+    "static/js/2.b13e1942.chunk.js",
+    "static/css/main.523f09c5.chunk.css",
+    "static/js/main.1ae43efc.chunk.js"
+  ]
+}
